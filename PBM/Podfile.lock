@@ -1,0 +1,20 @@
+PODS:
+  - JAnalytics (1.2.1):
+    - JCore (~> 1.2.0)
+  - JCore (1.2.6)
+
+DEPENDENCIES:
+  - JAnalytics
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JAnalytics
+    - JCore
+
+SPEC CHECKSUMS:
+  JAnalytics: a65f716b383ad470aacd63a7af1984746cc3e06f
+  JCore: cae516dd2bf1a73b578ce6e1065abd49e709e0f7
+
+PODFILE CHECKSUM: c76d1afa3c16c11b9012634dd579e96fff73e5b9
+
+COCOAPODS: 1.5.3

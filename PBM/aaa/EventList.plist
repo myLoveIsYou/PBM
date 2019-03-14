@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mineViewController</key>
+	<array/>
+	<key>shopCarViewController</key>
+	<array>
+		<dict>
+			<key>MethodName</key>
+			<string>tableView:didSelectRowAtIndexPath:</string>
+			<key>EventId</key>
+			<string>10010</string>
+		</dict>
+	</array>
+	<key>homeViewController</key>
+	<array>
+		<dict>
+			<key>MethodName</key>
+			<string>shareAction</string>
+			<key>EventId</key>
+			<string>10011</string>
+		</dict>
+	</array>
+</dict>
+</plist>
