@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "PBM"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = " description of PBM."
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/myLoveIsYou/PBM.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/myLoveIsYou/PBM.git", :tag => "0.0.2" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -94,7 +94,7 @@ Pod::Spec.new do |s|
   s.source_files  = "PBM", "PBM/aaa/**/*.{h,m}"
   s.exclude_files = "Classes/Exclude"
 
-; cache-lock-retries=10
+#; cache-lock-retries=10
    s.public_header_files = "PBM/aaa/**/*.h"
 
 
